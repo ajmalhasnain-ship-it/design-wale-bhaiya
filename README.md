@@ -1,5 +1,5 @@
-# Design Wale Bhaiya
+# Ajmal Hasnain
 
-Ajmal Hasnain's portfolio, built as a Delhi bazaar at night.
+Portfolio: motion, brand and product design.
 
 Live: https://ajmalhasnain-ship-it.github.io/design-wale-bhaiya/
